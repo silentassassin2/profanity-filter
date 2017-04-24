@@ -128,7 +128,6 @@ var bad_words=[
 "coons",
 "corksucker",
 "crabs",
-"crack",
 "cracker",
 "crackwhore",
 "cum",
@@ -191,7 +190,7 @@ var bad_words=[
 "dumbass",
 "dumbasses",
 "dyke",
-"dykes",
+"dykes"
 "ejaculate",
 "erect",
 "erection",
