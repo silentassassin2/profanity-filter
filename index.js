@@ -149,7 +149,6 @@ var bad_words=[
 "cuntlick",
 "cuntlicker",
 "cunts",
-"d0ng",
 "d0uch3",
 "d0uche",
 "d1ck",
